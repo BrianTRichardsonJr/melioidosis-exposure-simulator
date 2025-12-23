@@ -1,3 +1,9 @@
+"""
+Follow-up checkpoints reflect common monitoring intervals described in the
+literature. This module does not specify diagnostic tests, laboratory assays,
+thresholds, or medical interventions.
+"""
+
 def get_followup_schedule(event: dict, risk_level):
     schedule = [
         "Baseline documentation and clinical evaluation",
