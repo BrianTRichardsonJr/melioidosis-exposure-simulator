@@ -28,3 +28,15 @@ exposure to *Burkholderia pseudomallei* and *B. mallei*.
 - Education and awareness focus
 - Systems-based perspective
 
+## Design Rationale Informed by Published Evidence
+
+Published analyses of U.S. laboratory exposure events demonstrate that:
+- Most reported exposures involve multiple personnel
+- High-risk events are associated with aerosolization or mucous membrane exposure
+- Serological monitoring is commonly performed over several weeks
+- Clinical disease following laboratory exposure remains rare
+
+These findings informed the simulator’s focus on:
+- Exposure categorization rather than organism identification
+- Reporting and communication workflows
+- Conceptual follow-up timelines rather than treatment
