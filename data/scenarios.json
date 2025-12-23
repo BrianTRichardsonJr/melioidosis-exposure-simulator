@@ -1,1 +1,33 @@
+[
+  {
+    "scenario_id": "SYN-001",
+    "agent_type": "B. pseudomallei",
+    "exposure_route": "unknown",
+    "ppe_used": "unknown",
+    "event_setting": "diagnostic_lab",
+    "time_since_event_hours": 6,
+    "symptoms_present": false,
+    "notes": "Retrospective concern after organism ientification."
+  },
+  {
+    "scenario_id": "SYN-002",
+    "agent_type": "B. pseudomallei",
+    "exposure_route": "percutaneous",
+    "ppe_used": "no",
+    "event_setting": "research_lab",
+    "time_since_event_hours": 2,
+    "symptoms_present": false,
+    "notes": "Needlestick injury during routine work."
+  },
+  {
+    "scenario_id": "SYN-003",
+    "agent_type": "B. pseudomallei",
+    "exposure_route": "aerosol_concern",
+    "ppe_used": "unknown",
+    "event_setting": "clinical_setting",
+    "time_since_event_hours": 24,
+    "symptoms_present": true,
+    "notes": "Febrile illness reported after possible exposure."
+  }
+]
 
