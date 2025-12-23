@@ -61,7 +61,9 @@ No patient data, laboratory data, or protected health information (PHI) is used.
 This project was developed in a personal capacity. It does not represent the
 views, policies, or positions of the Centers for Disease Control and Prevention
 (CDC) or the U.S. Government. No CDC data, systems, or resources were used in the
-development of this project.
+development of this project. The author of this repository is a co-author on cited literature. This project
+does not reproduce, reinterpret, or extend published guidance and was developed
+independently for educational purposes.
 
 ---
 
