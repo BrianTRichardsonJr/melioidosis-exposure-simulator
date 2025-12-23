@@ -78,6 +78,23 @@ Links are provided for reference only.
 
 ---
 
+## Evidence Base
+
+This simulator is informed by peer-reviewed literature describing occupational
+laboratory exposures to *Burkholderia pseudomallei* in non-endemic settings.
+
+In particular, exposure patterns, risk categorization concepts, and serological
+monitoring timelines are based on:
+
+Richardson BT Jr. et al. *Occupational Laboratory Exposures to Burkholderia
+pseudomallei in the United States: A Review of Exposures and Serological Monitoring
+Data, 2008–2024.* Pathogens (2025).
+
+This tool does not reproduce laboratory methods, clinical management, or
+post-exposure prophylaxis recommendations described in the literature.
+
+---
+
 ## How to run locally
 
 ```bash
