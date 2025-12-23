@@ -1,6 +1,6 @@
 ## One-Page Project Summary
 
-**Project:** Melioidosis Exposure Awareness & Reporting Simulator
+**Project:** Burkholderia pseudomallei Exposure Awareness & Reporting Simulator
 
 **Purpose:**  
 Educational simulation demonstrating how healthcare systems recognize and
