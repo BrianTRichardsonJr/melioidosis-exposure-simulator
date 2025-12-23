@@ -1,3 +1,10 @@
+"""
+Risk categories are conceptual and derived from published summaries of
+laboratory exposure events. This module does not describe laboratory
+procedures or biosafety practices.
+"""
+
+
 from enum import Enum
 
 class RiskLevel(Enum):
