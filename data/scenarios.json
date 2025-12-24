@@ -1,33 +1,224 @@
 [
   {
     "scenario_id": "SYN-001",
-    "agent_type": "B. pseudomallei",
+    "agent_type": "pseudomallei",
+    "organism_context": "reclassified_after_initial_workup",
     "exposure_route": "unknown",
     "ppe_used": "unknown",
     "event_setting": "diagnostic_lab",
     "time_since_event_hours": 6,
     "symptoms_present": false,
-    "notes": "Retrospective concern after organism ientification."
+    "notes": "Retrospective concern after organism reclassification; exposure details unclear."
   },
   {
     "scenario_id": "SYN-002",
-    "agent_type": "B. pseudomallei",
+    "agent_type": "pseudomallei",
+    "organism_context": "suspected",
     "exposure_route": "percutaneous",
     "ppe_used": "no",
-    "event_setting": "research_lab",
-    "time_since_event_hours": 2,
+    "event_setting": "diagnostic_lab",
+    "time_since_event_hours": 3,
     "symptoms_present": false,
-    "notes": "Needlestick injury during routine work."
+    "notes": "Percutaneous injury reported during routine handling; incident reported promptly."
   },
   {
     "scenario_id": "SYN-003",
-    "agent_type": "B. pseudomallei",
+    "agent_type": "pseudomallei",
+    "organism_context": "confirmed",
+    "exposure_route": "mucous_membrane",
+    "ppe_used": "unknown",
+    "event_setting": "diagnostic_lab",
+    "time_since_event_hours": 10,
+    "symptoms_present": false,
+    "notes": "Potential mucous membrane exposure; protective equipment use uncertain."
+  },
+  {
+    "scenario_id": "SYN-004",
+    "agent_type": "pseudomallei",
+    "organism_context": "suspected",
+    "exposure_route": "contact_only",
+    "ppe_used": "yes",
+    "event_setting": "clinical_setting",
+    "time_since_event_hours": 18,
+    "symptoms_present": false,
+    "notes": "Clinical team handled sealed specimen container; no spill reported; concern raised out of caution."
+  },
+  {
+    "scenario_id": "SYN-005",
+    "agent_type": "pseudomallei",
+    "organism_context": "unknown",
     "exposure_route": "aerosol_concern",
     "ppe_used": "unknown",
+    "event_setting": "diagnostic_lab",
+    "time_since_event_hours": 12,
+    "symptoms_present": false,
+    "notes": "Aerosol concern raised after a process deviation; multiple staff potentially present."
+  },
+  {
+    "scenario_id": "SYN-006",
+    "agent_type": "pseudomallei",
+    "organism_context": "confirmed",
+    "exposure_route": "unknown",
+    "ppe_used": "yes",
+    "event_setting": "research_lab",
+    "time_since_event_hours": 36,
+    "symptoms_present": false,
+    "notes": "Potential exposure considered during audit; details limited; staff seeking guidance on reporting."
+  },
+  {
+    "scenario_id": "SYN-007",
+    "agent_type": "pseudomallei",
+    "organism_context": "suspected",
+    "exposure_route": "percutaneous",
+    "ppe_used": "yes",
+    "event_setting": "diagnostic_lab",
+    "time_since_event_hours": 2,
+    "symptoms_present": false,
+    "notes": "Percutaneous injury reported; protective equipment otherwise used; immediate evaluation requested."
+  },
+  {
+    "scenario_id": "SYN-008",
+    "agent_type": "pseudomallei",
+    "organism_context": "reclassified_after_initial_workup",
+    "exposure_route": "contact_only",
+    "ppe_used": "yes",
+    "event_setting": "diagnostic_lab",
+    "time_since_event_hours": 72,
+    "symptoms_present": false,
+    "notes": "Low-contact scenario; concern raised after later information suggested higher consequence pathogen."
+  },
+  {
+    "scenario_id": "SYN-009",
+    "agent_type": "pseudomallei",
+    "organism_context": "confirmed",
+    "exposure_route": "aerosol_concern",
+    "ppe_used": "no",
+    "event_setting": "diagnostic_lab",
+    "time_since_event_hours": 8,
+    "symptoms_present": false,
+    "notes": "Higher-concern scenario with no respiratory protection reported; multiple personnel may be affected."
+  },
+  {
+    "scenario_id": "SYN-010",
+    "agent_type": "pseudomallei",
+    "organism_context": "suspected",
+    "exposure_route": "mucous_membrane",
+    "ppe_used": "no",
     "event_setting": "clinical_setting",
+    "time_since_event_hours": 5,
+    "symptoms_present": false,
+    "notes": "Splash concern reported in a clinical setting; exposure classification requested."
+  },
+
+  {
+    "scenario_id": "SYN-011",
+    "agent_type": "mallei",
+    "organism_context": "suspected",
+    "exposure_route": "unknown",
+    "ppe_used": "unknown",
+    "event_setting": "diagnostic_lab",
     "time_since_event_hours": 24,
+    "symptoms_present": false,
+    "notes": "Potential exposure event associated with suspected B. mallei; uncertainty about appropriate monitoring."
+  },
+  {
+    "scenario_id": "SYN-012",
+    "agent_type": "mallei",
+    "organism_context": "confirmed",
+    "exposure_route": "aerosol_concern",
+    "ppe_used": "unknown",
+    "event_setting": "diagnostic_lab",
+    "time_since_event_hours": 48,
     "symptoms_present": true,
-    "notes": "Febrile illness reported after possible exposure."
+    "notes": "Symptoms reported after potential high-concern exposure route; urgent evaluation indicated."
+  },
+  {
+    "scenario_id": "SYN-013",
+    "agent_type": "mallei",
+    "organism_context": "unknown",
+    "exposure_route": "percutaneous",
+    "ppe_used": "yes",
+    "event_setting": "research_lab",
+    "time_since_event_hours": 6,
+    "symptoms_present": false,
+    "notes": "Percutaneous injury reported; agent identity later questioned; staff seeking reporting guidance."
+  },
+  {
+    "scenario_id": "SYN-014",
+    "agent_type": "mallei",
+    "organism_context": "suspected",
+    "exposure_route": "contact_only",
+    "ppe_used": "yes",
+    "event_setting": "clinical_setting",
+    "time_since_event_hours": 30,
+    "symptoms_present": false,
+    "notes": "Low-contact concern; request for systems-level guidance about notifications and monitoring."
+  },
+
+  {
+    "scenario_id": "SYN-015",
+    "agent_type": "unknown",
+    "organism_context": "unknown",
+    "exposure_route": "unknown",
+    "ppe_used": "unknown",
+    "event_setting": "diagnostic_lab",
+    "time_since_event_hours": 9,
+    "symptoms_present": false,
+    "notes": "Uncertain organism; event flagged for review due to potential high-consequence pathogen category."
+  },
+  {
+    "scenario_id": "SYN-016",
+    "agent_type": "unknown",
+    "organism_context": "unknown",
+    "exposure_route": "aerosol_concern",
+    "ppe_used": "unknown",
+    "event_setting": "diagnostic_lab",
+    "time_since_event_hours": 4,
+    "symptoms_present": false,
+    "notes": "Aerosol concern reported; identity not confirmed; emphasis on notification pathway and documentation."
+  },
+  {
+    "scenario_id": "SYN-017",
+    "agent_type": "pseudomallei",
+    "organism_context": "confirmed",
+    "exposure_route": "contact_only",
+    "ppe_used": "yes",
+    "event_setting": "research_lab",
+    "time_since_event_hours": 96,
+    "symptoms_present": false,
+    "notes": "Low-concern contact-only scenario; review requested for completeness of documentation and follow-up."
+  },
+  {
+    "scenario_id": "SYN-018",
+    "agent_type": "pseudomallei",
+    "organism_context": "suspected",
+    "exposure_route": "unknown",
+    "ppe_used": "no",
+    "event_setting": "diagnostic_lab",
+    "time_since_event_hours": 14,
+    "symptoms_present": false,
+    "notes": "Protective equipment not used as expected; exposure route unclear; seek occupational health guidance."
+  },
+  {
+    "scenario_id": "SYN-019",
+    "agent_type": "pseudomallei",
+    "organism_context": "reclassified_after_initial_workup",
+    "exposure_route": "mucous_membrane",
+    "ppe_used": "yes",
+    "event_setting": "diagnostic_lab",
+    "time_since_event_hours": 20,
+    "symptoms_present": false,
+    "notes": "Mucous membrane concern; later information suggested B. pseudomallei; notification pathway review."
+  },
+  {
+    "scenario_id": "SYN-020",
+    "agent_type": "pseudomallei",
+    "organism_context": "confirmed",
+    "exposure_route": "percutaneous",
+    "ppe_used": "unknown",
+    "event_setting": "diagnostic_lab",
+    "time_since_event_hours": 1,
+    "symptoms_present": true,
+    "notes": "Symptoms reported very soon after event; tool should classify as high concern and emphasize urgent evaluation."
   }
 ]
-
