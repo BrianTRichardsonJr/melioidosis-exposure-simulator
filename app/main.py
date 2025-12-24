@@ -11,7 +11,7 @@ with open("data/scenarios.json") as f:
     scenarios = json.load(f)
 
 scenario = st.selectbox(
-    "Select a synthetic scenario",
+    "Select a ficticious exposure scenario",
     scenarios,
     format_func=lambda x: x["scenario_id"]
 )
