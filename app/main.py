@@ -32,3 +32,4 @@ st.subheader("Follow-up Considerations")
 for item in get_followup_schedule(scenario, risk):
     st.write("• ", item)
 
+st.caption("Developed in a personal capacity. Does not represent CDC or U.S. Government positions.")
